@@ -1,10 +1,11 @@
-### burger-app-html-css
+### This is a simple burger website created using HTML and SCSS. The website is a single page and includes a menu section, an about section, and a contact section.
 
 ##screen
 
-## What i practice
-
--display: flex orenildi
--
-
 ![](burger.gif)
+
+## Technologies Used
+-HTML
+-SCSS
+
+
